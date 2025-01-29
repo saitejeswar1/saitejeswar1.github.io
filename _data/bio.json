@@ -7,7 +7,7 @@
     "phone": "+4915226617277",
     "website": "https://saitejeswar1.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "city": "Berlin", "countryCode": "Germany" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/saitejeswar1" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/saitejeswar" },
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "AI/ML" },
+    { "name": "Ai in Bio medical Engineering " },
+    { "name": "Data Science" },
+    { "name": "LLMs" },
+    { "name": "Research projects" }
   ],
   "skills": [
     {
