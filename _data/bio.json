@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "city": "Berlin", "countryCode": "Germany" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/saitejeswar1" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/saitejeswar" }
+      { "network": "github", "username": "saitejeswar1", "url": "http://github.com/saitejeswar1" },
+      { "network": "linkedin", "username": "saitejeswar", "url": "http://linkedin.com/in/saitejeswar" }
     ]
   },
   "interests": [
