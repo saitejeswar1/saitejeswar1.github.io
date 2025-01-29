@@ -10,9 +10,7 @@
     "location": { "city": "Berlin", "countryCode": "Germany" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/saitejeswar1" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/saitejeswar" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/saitejeswar" }
     ]
   },
   "interests": [
