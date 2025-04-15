@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
         
         // Call Flask backend API
-        fetch('https://yourusername.pythonanywhere.com/chat', {
+        fetch('http://127.0.0.1:5000/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
